@@ -15,7 +15,31 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_0A57DB6E49F640CFAAE568D27B2A97B2"
+        "MsmKey" = "8:_24BCADDC85B342019D708A32F145B10D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_39B7AC8A537040388B5D2B409C34A181"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8A5BE5F4AF194B28913B8D3548F71B20"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C35590747B034739BDB7115A64FD4A71"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F519B0A1A27B4A63B67850AC874D9672"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -84,6 +108,117 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_24BCADDC85B342019D708A32F145B10D"
+            {
+            "SourcePath" = "8:..\\randomusert_rbg\\bin\\x64\\Debug\\net7.0\\randomusert_rbg.exe"
+            "TargetName" = "8:randomusert_rbg.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_755DA641EEEF4AF6922D59D5456CF0F7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_39B7AC8A537040388B5D2B409C34A181"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:randomusert_rbg, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64"
+                "ScatterAssemblies"
+                {
+                    "_39B7AC8A537040388B5D2B409C34A181"
+                    {
+                    "Name" = "8:randomusert_rbg.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\randomusert_rbg\\bin\\x64\\Debug\\net7.0\\randomusert_rbg.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_755DA641EEEF4AF6922D59D5456CF0F7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8A5BE5F4AF194B28913B8D3548F71B20"
+            {
+            "SourcePath" = "8:..\\randomusert_rbg\\bin\\x64\\Debug\\net7.0\\randomusert_rbg.runtimeconfig.json"
+            "TargetName" = "8:randomusert_rbg.runtimeconfig.json"
+            "Tag" = "8:"
+            "Folder" = "8:_755DA641EEEF4AF6922D59D5456CF0F7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C35590747B034739BDB7115A64FD4A71"
+            {
+            "SourcePath" = "8:..\\randomusert_rbg\\bin\\x64\\Debug\\net7.0\\randomusert_rbg.deps.json"
+            "TargetName" = "8:randomusert_rbg.deps.json"
+            "Tag" = "8:"
+            "Folder" = "8:_755DA641EEEF4AF6922D59D5456CF0F7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F519B0A1A27B4A63B67850AC874D9672"
+            {
+            "SourcePath" = "8:..\\randomusert_rbg\\bin\\x64\\Debug\\net7.0\\randomusert_rbg.pdb"
+            "TargetName" = "8:randomusert_rbg.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_755DA641EEEF4AF6922D59D5456CF0F7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -152,7 +287,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:rbg"
         "ProductCode" = "8:{97D81184-BA52-47F0-9BA1-B7EFA560A877}"
-        "PackageCode" = "8:{3D2053BE-EABB-496A-9E8D-2FE7978306F4}"
+        "PackageCode" = "8:{B603AA54-9A92-4959-B6D6-9EFDBA1DA8EA}"
         "UpgradeCode" = "8:{07C74914-102B-4D84-8013-B93266BB9029}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
@@ -671,34 +806,6 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_0A57DB6E49F640CFAAE568D27B2A97B2"
-            {
-            "SourcePath" = "8:..\\randomusert_rbg\\obj\\x64\\Debug\\net7.0\\randomusert_rbg.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_755DA641EEEF4AF6922D59D5456CF0F7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{74611BB5-5220-4D23-8918-47004C31AA4C}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_ED41022B13BA4F92867EFA5D62062A5C"
             {
             "SourcePath" = "8:"

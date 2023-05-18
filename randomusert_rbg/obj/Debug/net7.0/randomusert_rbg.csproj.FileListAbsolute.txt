@@ -1,0 +1,15 @@
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\bin\Debug\net7.0\randomusert_rbg.exe
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\bin\Debug\net7.0\randomusert_rbg.deps.json
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\bin\Debug\net7.0\randomusert_rbg.runtimeconfig.json
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\bin\Debug\net7.0\randomusert_rbg.dll
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\bin\Debug\net7.0\randomusert_rbg.pdb
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\randomusert_rbg.csproj.AssemblyReference.cache
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\randomusert_rbg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\randomusert_rbg.AssemblyInfoInputs.cache
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\randomusert_rbg.AssemblyInfo.cs
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\randomusert_rbg.csproj.CoreCompileInputs.cache
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\randomusert_rbg.dll
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\refint\randomusert_rbg.dll
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\randomusert_rbg.pdb
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\randomusert_rbg.genruntimeconfig.cache
+C:\Users\Eetu\Desktop\randomusert_rbg\randomusert_rbg\obj\Debug\net7.0\ref\randomusert_rbg.dll
